@@ -2,17 +2,20 @@
   <div id="app">
     <img class="logo" alt="CloudBase logo" src="./assets/cloudbase.png" />
     <img class="logo" alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="欢迎使用云开发 CloudBase Vue.js App" />
-  </div>
+    <p>
+      YOU R BAMBOOZLED!
+    </p>
+    
+    </div>
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+// import HelloWorld from "./components/HelloWorld.vue";
 
 export default {
   name: "App",
   components: {
-    HelloWorld,
+    // HelloWorld,
   },
 };
 </script>
