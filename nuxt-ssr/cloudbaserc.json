@@ -18,8 +18,8 @@
               "name": "nuxt-ssr-echo",
               "timeout": 5,
               "envVariables": {},
-              "runtime": "Nodejs10.15",
-              "memory": 128,
+              "runtime": "Nodejs12.16",
+              "memory": 256,
               "aclRule": {
                 "invoke": true
               }
